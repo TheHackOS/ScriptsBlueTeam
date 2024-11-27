@@ -1,5 +1,4 @@
 ## SPLUNK
---
 
 ### Sintaxis
 
